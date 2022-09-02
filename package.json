@@ -1,0 +1,7 @@
+{
+  "name": "tenders",
+  "version": "0.1.0",
+  "dependencies": {
+    "web-vitals": "2.0.0"
+  }
+}

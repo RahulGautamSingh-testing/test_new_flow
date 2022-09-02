@@ -1,5 +1,5 @@
 {
   "$schema": "https://docs.renovatebot.com/renovate-schema.json",
   "rebaseWhen": "behind-base-branch",
-  "gitIgnoredAuthors": ["rahul_ug@cse.nits.ac.in, rahultesnik@gmail.com"]
+  "gitIgnoredAuthors": ["99875673+RahulGautamSingh-testing@users.noreply.github.com"]
 }
